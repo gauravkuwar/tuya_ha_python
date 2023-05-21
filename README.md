@@ -76,3 +76,5 @@ sudo journalctl -u pyhap.service # see all logs
 ## Some more things to keep in mind
 
 - You can't add the hub on iOS devices, this is just how homekit works. So, you have to add it on one device and invite people with different apple ids to the home, so they can use the devices.
+
+- You __cannot__ have Tuya app (or other tuya connections) open at the same time as this service. It will cause the service to not work, but will go back to normal after you close the app.
