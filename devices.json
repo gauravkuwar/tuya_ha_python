@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Light 1",
+        "id": "xxxxxxxxxxxxxxxx",
+        "local_key": "xxxxxxxxxxxxxxxx",
+        "type": "outlet",
+        "ip_addr": "xxx.xxx.xxx.xxx",
+        "version": 3.1
+    },
+    {
+        "name": "Light 2",
+        "id": "xxxxxxxxxxxxxxxx",
+        "local_key": "xxxxxxxxxxxxxxxx",
+        "type": "outlet",
+        "ip_addr": "xxx.xxx.xxx.xxx",
+        "version": 3.1
+    },
+    {
+        "name": "Light 3",
+        "id": "xxxxxxxxxxxxxxxx",
+        "local_key": "xxxxxxxxxxxxxxxx",
+        "type": "bulb",
+        "ip_addr": "xxx.xxx.xxx.xxx",
+        "version": 3.3
+    },
+    {
+        "name": "Light 4",
+        "id": "xxxxxxxxxxxxxxxx",
+        "local_key": "xxxxxxxxxxxxxxxx",
+        "type": "bulb",
+        "ip_addr": "xxx.xxx.xxx.xxx",
+        "version": 3.3
+    }
+]
+
