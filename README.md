@@ -6,7 +6,7 @@ This is a simple script that is used to control Tuya lightbulbs/switches from th
 
 Firstly, there are lightbulbs and switches for Apple Homekit, but these are generally more expensive than Tuya or other IoT devices.
 
-Home Assistant can do this same thing, which is what I was initially using. However, it often broke, and you had to install the entire HASS OS on the raspberry pi, making it unusable for other purposes. Using docker, was also didn't work well for me. Overall, Home Assistant had too much unnecessary functionality, for this very simple use case.
+Home Assistant can do this same thing, which is what I was initially using. However, it often broke, and you had to install the entire HASS OS on the raspberry pi, making it unusable for other purposes. Using docker, also didn't work well for me. Overall, Home Assistant had too much unnecessary functionality, for this very simple use case.
 
 ## Setup
 
