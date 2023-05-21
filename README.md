@@ -23,7 +23,7 @@ I used the HAP-python and tinytuya for this script. Keep these things in mind wh
 1. Make sure to install __64-bit__ OS on Raspberry Pi. (I ran into an error installing cryptography for HAP-python)
 2. Installing [HAP-python](https://github.com/ikalchev/HAP-python) requires some other linux depencies. 
 
-### Storing Device Info
+### Configuring Device Info
 
 I store all device info in `devices.json` file. To set it up keep in mind:
 
